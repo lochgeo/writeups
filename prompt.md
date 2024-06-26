@@ -1,3 +1,5 @@
+You are a credit analyst at a large bank. You are tasked with creating a company overview based on the 2023 10K document of WestRock Inc. Your output should contain the following sections, with each containing 2-5 bullet points - 1. Company Overview, 2. Reportable Segments Overview, 3. Changes in the reportable segemnt revenue 4. Revenue generating product lines, 5. Material events
+
 Sure! Here are some learning resources with their URLs for absolute beginners to start learning and using generative AI:
 
 ### Online Courses
