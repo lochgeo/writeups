@@ -76,7 +76,8 @@ Additionally, the company experienced an increase in interest expenses in 2023, 
 
 Lastly, the cash flow from operations may have been affected by the decline in revenue and profitability, leading to lower cash flows in 2023 compared to 2022. This could have implications for the company's ability to fund its operations, investments, and debt obligations. Overall, the company's financial performance in 2023 reflects challenges in revenue generation, cost management, and profitability, which may require strategic adjustments to improve future performance.
 
-**Assistant:** | Item                                | 2023 (in millions) | 2022 (in millions) |
+**Assistant:** 
+| Item                                | 2023 (in millions) | 2022 (in millions) |
 |-------------------------------------|--------------------|--------------------|
 | Net Sales                           | \$20,310.0          | \$21,256.5          |
 | Cost of Goods Sold                  | \$16,725.5          | \$17,237.5          |
@@ -95,7 +96,8 @@ Lastly, the cash flow from operations may have been affected by the decline in r
 | Gain on Sale of RTS and Chattanooga  | \$238.8            | -                 |
 | Net Income                          | -                  | -                 |
 
-**Assistant:** | Item                               | 2023          | 2022          |
+**Assistant:** 
+| Item                               | 2023          | 2022          |
 |------------------------------------|---------------|---------------|
 | Net (loss) income attributable to common stockholders | \$ (1,649.0) | \$ 944.6       |
 | Less: Net income attributable to noncontrolling interests | \$ 4.8        | \$ 4.6         |
@@ -113,7 +115,8 @@ Lastly, the cash flow from operations may have been affected by the decline in r
 
 **User:** Balance Sheet
 
-**Assistant:** | Balance Sheet Items       | September 30, 2023 | September 30, 2022 |
+**Assistant:** 
+| Balance Sheet Items       | September 30, 2023 | September 30, 2022 |
 |---------------------------|---------------------|---------------------|
 | Current Assets            | \$192.4              | \$227.4              |
 | Non-Current Assets        | \$1,870.1            | \$2,182.9            |
@@ -143,7 +146,8 @@ In addition to the credit facilities, the company also has other obligations for
 
 Overall, the company's credit facilities provide them with liquidity for various corporate purposes, and they are managing their working capital through various strategies, including supply chain financing programs and receivables securitization facilities.
 
-**Assistant:** | Period       | Long-Term Debt | Lease Obligations | Purchase Obligations |
+**Assistant:** 
+| Period       | Long-Term Debt | Lease Obligations | Purchase Obligations |
 |--------------|----------------|-------------------|----------------------|
 | Fiscal 2024  | \$2,203.5       | \$320.5            | \$1,413.3             |
 | Fiscal 2025  | \$3,253.2       | \$387.2            | \$334.6               |
