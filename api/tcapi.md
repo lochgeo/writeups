@@ -1,3 +1,4 @@
+```
 {
   "productId": "12345",             // Identifier for the financial product or service
   "fields": ["APR", "APY", "fees"], // Optional: List of specific fields to retrieve
@@ -5,7 +6,8 @@
   "language": "en",                 // Optional: Preferred language of terms
   "version": "latest"               // Optional: Specific version or "latest"
 }
-
+```
+```
 {
   "terms_and_conditions": {
     "productId": "12345",
@@ -46,3 +48,4 @@
     "machineReadableLink": "https://example.com/api/v1/terms/12345.json"
   }
 }
+```
