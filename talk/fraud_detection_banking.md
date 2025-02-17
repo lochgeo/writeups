@@ -305,6 +305,53 @@ Banking fraud continues to pose significant challenges both globally and within 
 
 - **Private Sector Banks' Share:** In the 2023-24 period, private sector banks in India accounted for **67.1%** of the total reported fraud cases. citeturn0search8
 
+
+**Slide Title:** Onboarding Fraud and the Proliferation of Deepfakes
+
+**1. Understanding Onboarding Fraud**
+
+- **Definition:** Onboarding fraud involves malicious actors exploiting the account creation process to establish fraudulent accounts within financial institutions.
+
+- **Methods:**
+  - **Synthetic Identities:** Combining real and fabricated information to create new, fictitious identities.
+  - **Stolen Identities:** Using compromised personal data to impersonate legitimate individuals.
+
+**2. Emergence of Deepfakes in Fraud**
+
+- **Deepfake Technology:** Utilizes artificial intelligence to generate highly realistic fake images, videos, or audio recordings, convincingly mimicking real individuals.
+
+- **Application in Fraud:**
+  - **Impersonation:** Creating deepfake videos or audio to impersonate executives or account holders, authorizing fraudulent transactions.
+  - **Document Forgery:** Producing counterfeit identity documents that appear authentic during verification processes.
+
+**3. Impact on Digital Onboarding**
+
+- **Challenges Posed by Deepfakes:**
+  - **Identity Verification:** Deepfakes can deceive facial recognition systems, allowing fraudsters to bypass security measures.
+  - **Trust Erosion:** Increased incidents of deepfake fraud can undermine customer confidence in digital onboarding processes.
+
+- **Case Example:** A financial institution fell victim to a deepfake scam where fraudsters used AI-generated videos to impersonate a company executive, authorizing a large fund transfer. citeturn0search9
+
+**4. Mitigation Strategies**
+
+- **Multi-Factor Authentication (MFA):** Implementing multiple layers of verification to enhance security.
+
+- **Liveness Detection:** Utilizing AI to distinguish between live individuals and deepfake media during verification. citeturn0search0
+
+- **Behavioral Biometrics:** Analyzing user behavior patterns, such as typing speed and navigation habits, to detect anomalies indicative of fraud. citeturn0search0
+
+- **Continuous Monitoring:** Regularly updating security protocols and educating staff about emerging deepfake technologies and associated risks.
+
+**Visual Suggestions:**
+
+- **Diagram:** Flowchart illustrating how deepfake technology can infiltrate the onboarding process.
+
+- **Comparison Image:** Side-by-side visuals of a legitimate video call and a deepfake impersonation to highlight detection challenges.
+
+- **Statistics Infographic:** Data showcasing the rise in deepfake-related fraud incidents in the financial sector.
+
+By understanding and addressing the threats posed by deepfakes in onboarding processes, financial institutions can enhance their defenses against increasingly sophisticated fraudulent activities. 
+
 These statistics underscore the escalating threat of banking fraud, emphasizing the need for advanced detection and prevention strategies, including the integration of generative AI technologies.
 
 navlistRecent Developments in Banking Fraud and AIturn0news18,turn0news19,turn0news20 
