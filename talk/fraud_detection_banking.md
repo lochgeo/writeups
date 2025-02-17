@@ -285,3 +285,26 @@ Visual Ideas:
 Graph of AI fraud detection accuracy improving over time.
 Future AI fraud detection system architecture.
 Roadmap of AI advancements in banking security.
+
+
+Banking fraud continues to pose significant challenges both globally and within India. Here are some key statistics highlighting the current landscape:
+
+**Global Banking Fraud Statistics:**
+
+- **Financial Impact:** In 2023, fraud scams and bank fraud schemes resulted in projected global losses of **$485.6 billion**. citeturn0search9
+
+- **Prevalence Among Financial Institutions:** Nearly **60%** of banks, fintechs, and credit unions reported direct fraud losses exceeding **$500,000** in 2023, with over a quarter experiencing losses surpassing **$1 million**. citeturn0search1
+
+- **Rise in AI-Driven Scams:** The widespread availability of AI has contributed to an alarming surge in scams, with fraudsters leveraging AI to execute more sophisticated schemes. citeturn0search5
+
+**Banking Fraud Statistics in India:**
+
+- **Surge in Fraud Cases:** In the first half of the financial year 2024-25, Indian banks experienced a significant increase in fraud cases, with the amount involved jumping eightfold compared to the previous year. citeturn0search4
+
+- **Cyber Fraud in Mumbai:** Cyber fraud-related losses in Mumbai escalated by **350%** in the first 11 months of 2024, totaling **₹1,181 crore**. Investment frauds in the city saw a **25-fold** increase, rising from **₹7.76 crore** in 2023 to **₹191 crore** by mid-2024. citeturn0search6
+
+- **Private Sector Banks' Share:** In the 2023-24 period, private sector banks in India accounted for **67.1%** of the total reported fraud cases. citeturn0search8
+
+These statistics underscore the escalating threat of banking fraud, emphasizing the need for advanced detection and prevention strategies, including the integration of generative AI technologies.
+
+navlistRecent Developments in Banking Fraud and AIturn0news18,turn0news19,turn0news20 
