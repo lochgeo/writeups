@@ -1,3 +1,5 @@
+https://grok.com/share/bGVnYWN5_eee2b887-de48-4560-b324-06ba3950997f
+
 Designing a data model to support user identity profiles for detecting out-of-band activities in an internet banking system requires a structure that can efficiently store, query, and update user behavior data while enabling real-time anomaly detection. Below, I'll outline a comprehensive data model with considerations for scalability, performance, and flexibility.
 
 ---
