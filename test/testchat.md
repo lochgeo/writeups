@@ -1,4 +1,4 @@
-To create a testing strategy for a generative AI-based chat application for a banking institution, prioritizing correctness and avoiding misleading information, you need tools, techniques, and metrics that ensure accuracy, reliability, and safety. While the H2O Eval Studio documentation provided useful concepts (e.g., answer correctness, factuality, PII leakage), this response will avoid recommending H2O.ai products and instead focus on general tools, frameworks, and methodologies that align with your requirements. The strategy emphasizes refusing answers when there’s doubt to prevent partially incorrect responses, critical for a banking context.
+To create a testing strategy for a generative AI-based chat application for a banking institution, prioritizing correctness and avoiding misleading information, you need tools, techniques, and metrics that ensure accuracy, reliability, and safety. The strategy emphasizes refusing answers when there’s doubt to prevent partially incorrect responses, critical for a banking context.
 
 ### Key Considerations
 - **Correctness**: Responses must align with verified financial data to avoid errors with significant consequences.
@@ -6,7 +6,7 @@ To create a testing strategy for a generative AI-based chat application for a ba
 - **Compliance**: Adhere to banking regulations (e.g., GDPR, CCPB, FDIC) to protect sensitive data.
 - **Explainability**: Provide transparency into why answers are correct, incorrect, or refused to build trust and aid debugging.
 
-### Recommended Tools (Non-H2O.ai)
+### Recommended Tools
 1. **Open-Source Evaluation Frameworks**:
    - **Ragas**: A Python library for evaluating RAG and LLM applications, offering metrics like answer correctness, factuality, and faithfulness.
    - **TruLens**: A tool for evaluating and tracking LLM performance, supporting custom metrics for accuracy and safety.
@@ -143,5 +143,3 @@ To create a testing strategy for a generative AI-based chat application for a ba
 - **Compliance**: PII detection and regulatory alignment protect sensitive data.
 - **Flexibility**: Open-source tools allow customization for banking needs without proprietary dependencies.
 - **Transparency**: Error analysis and human validation provide insights for improvement and stakeholder trust.
-
-This strategy leverages concepts like answer correctness, factuality, and PII leakage from the H2O documentation but uses widely available, non-H2O.ai tools to meet your banking application’s needs. For API integration, consider xAI’s API service (https://x.ai/api) if relevant. If you need further customization or have specific banking regulations to address, let me know!
