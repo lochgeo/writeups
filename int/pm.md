@@ -47,3 +47,52 @@
 
 * **Are you planning for fallback mechanisms in case the generative AI fails or provides low-confidence responses?**
   *(Checks for resilience and safety nets.)*
+
+Here’s a structured and concise feedback summary you can use or adapt for your internal review or hiring process:
+
+⸻
+
+Candidate Feedback – Generative AI Product Manager Role
+
+Overall Recommendation: Proceed to next round
+
+⸻
+
+1. Communication & Attitude
+	•	Strengths:
+	•	Strong command over English; very articulate and expressive.
+	•	Comes across as pleasant, open, and collaborative in conversation.
+	•	Demonstrates a clear go-getter attitude and comfort working cross-functionally.
+
+⸻
+
+2. Generative AI Experience
+	•	Project Context:
+	•	Has been actively involved in implementing a generative AI solution in the onboarding domain—specifically focused on extracting and answering questions from multiple PDF documents.
+	•	Project was internal-facing, with no exposure to customer-facing generative AI solutions so far.
+	•	Scope of Involvement:
+	•	The core generative AI work was outsourced to a vendor. While he didn’t drive the low-level model implementation, he showed a solid grasp of how the solution worked overall.
+	•	Has good awareness of concepts like RAG, context windows, fine-tuning, and pre-trained transformers.
+
+⸻
+
+3. Technical & Domain Knowledge
+	•	Assessment:
+	•	While hands-on technical depth is limited (as expected for a PM role), his understanding of generative AI concepts is adequate and well-aligned with what’s required at this level.
+	•	Appreciates the importance of risk, compliance, and guardrails in a regulated banking environment.
+	•	Demonstrates an ability to navigate technical discussions and make informed product decisions.
+
+⸻
+
+4. Areas for Follow-Up
+	•	Has not worked on customer-facing generative AI applications—next round could assess ability to translate internal experience into external use cases.
+	•	Did not get an opportunity to evaluate his roadmap thinking, prioritization, or product strategy skills—suggest covering this in the next interview.
+
+⸻
+
+Conclusion:
+The candidate demonstrates strong communication skills, a proactive mindset, and solid conceptual knowledge of generative AI. While vendor reliance limits his hands-on experience, he shows readiness to work at a product level in this domain. Recommend moving him forward to evaluate broader product management competencies.
+
+⸻
+
+Would you like this in a doc or slide format for sharing?
