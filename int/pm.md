@@ -96,3 +96,64 @@ The candidate demonstrates strong communication skills, a proactive mindset, and
 ⸻
 
 Would you like this in a doc or slide format for sharing?
+
+**Overall Recommendation:** *Not Proceeding to Next Round*
+
+---
+
+### **1. Communication & Attitude**
+
+* **Observations:**
+
+  * Communication was adequate but not as strong as the first candidate. The candidate seemed reserved and struggled to express technical concepts clearly at times.
+  * While articulate, his responses often felt more academic or theoretical, which didn’t instill confidence in his practical experience with developing and scaling applications. This could pose challenges for cross-functional collaboration and engaging with stakeholders effectively in a product manager role.
+
+---
+
+### **2. Experience & Background**
+
+* **Previous Experience:**
+
+  * The candidate has a **managerial background** leading a research team at British Telecom, overseeing a variety of generative AI projects. However, the work seemed more research-oriented and lacked a strong emphasis on **enterprise-grade, production-level applications**.
+  * Throughout the interview, he referenced examples where his **team or colleagues** handled the actual technical implementations, which raised concerns about his direct involvement in **hands-on development** and problem-solving.
+
+* **Hands-On Experience:**
+
+  * Struggled to demonstrate sufficient **practical experience** in applying generative AI solutions to real-world problems. For example, when asked about **chatbot development, regulatory compliance, intent classification**, and **RAG architecture**, his answers were more theoretical and less grounded in actual implementation.
+  * He did mention that the **only chatbot** he had deployed was targeted at an internal user base of **just 50 people**, which suggests limited exposure to the complexities of building and scaling customer-facing, external-facing applications.
+
+---
+
+### **3. Technical & Domain Knowledge**
+
+* **Assessment:**
+
+  * While the candidate demonstrated a **general understanding** of generative AI principles, his grasp on critical **technical aspects** was lacking.
+  * Key concepts such as **intent classification**, **reducing hallucinations**, and **referencing multiple knowledge sources in RAG architecture** seemed unfamiliar to him or were answered in a very **bookish** manner, without a clear grasp of their practical implications in production environments.
+  * There was also a noticeable gap in his ability to confidently explain how generative AI principles translate into actual **product design and deployment**—which is crucial for a product manager role.
+
+---
+
+### **4. Practical Application & Hands-On Experience**
+
+* **Real-World Application:**
+
+  * He seemed somewhat removed from the hands-on work required in building, deploying, and maintaining enterprise-grade AI applications. Several times, he mentioned that **his colleagues or team** were responsible for technical implementation, leaving his personal involvement unclear.
+  * This **distance** from the actual building process raises concerns about his ability to make informed product decisions, balance trade-offs, and ensure that technical teams are aligned with business goals. Product managers need to deeply understand the technical challenges faced by development teams.
+  * The fact that his **chatbot deployment** targeted only **50 internal users** and wasn’t exposed to the **external world** further highlights his limited experience with scaling AI solutions to larger, customer-facing audiences, where **reliability, security**, and **performance** are critical.
+
+---
+
+### **5. Areas for Improvement**
+
+* **Focus on Practical Experience:**
+
+  * The candidate would benefit from more **hands-on experience** in building and deploying real-world applications, especially those with high-stakes, customer-facing implications like chatbots, regulatory solutions, or RAG systems.
+  * Needs to develop a deeper understanding of **technical challenges** and solutions in areas like **model fine-tuning, architecture scalability, risk mitigation**, and **data privacy compliance**—skills that go beyond theoretical knowledge.
+
+---
+
+**Conclusion:**
+While the candidate has experience managing a research team and has some theoretical knowledge of generative AI, he lacks the **practical, hands-on experience** required for this product manager role. His understanding of key technical concepts, especially in the context of real-world AI applications, is more academic and less grounded in actual product development. The fact that his **chatbot deployment** was limited to a small internal group further underscores his limited exposure to scaling AI solutions for broader, external user bases. Based on these observations, we do not recommend moving forward with this candidate.
+
+
