@@ -131,5 +131,50 @@ For your RFP, it’s critical to probe the **capabilities, governance, and usabi
 | **Business-friendly editor** | “Can non-technical users write rules using natural-language-like syntax or decision trees?” |
 | **Auto-tuning**              | “Do you support adaptive rules that tune thresholds based on observed fraud rates?”         |
 | **Explainability**           | “Do you provide plain-English explanations of why a rule was triggered?”                    |
+---
 
+### 🤖 Technology & Implementation RFP Questions — Focus on ML Models / BYOM
+
+| **Category**                 | **Question**                                                                                                                     | **Why This Matters**                                                               |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| **Model Integration / BYOM** | Can we integrate our own machine learning models into your platform (e.g., Python-based, PMML, ONNX, H2O, or TensorFlow models)? | You want flexibility to use in-house fraud models tuned to your customer behavior. |
+|                              | What model formats do you support for import/export (PMML, ONNX, pickle, JSON, etc.)?                                            | Determines compatibility with your model development pipelines.                    |
+|                              | How are third-party or custom models hosted and executed (on your platform vs. externally via API)?                              | Impacts performance and operational overhead.                                      |
+|                              | Can your system orchestrate model scoring by calling external APIs or microservices?                                             | Supports advanced use cases where model hosting remains in your control.           |
+|                              | What latency should we expect for model-based decisioning in real-time channels (e.g., FedNow, RTP)?                             | Ensures that model scoring won’t delay transactions in high-speed payment rails.   |
+
+---
+
+### 📊 Model Governance & Explainability
+
+| **Category**           | **Question**                                                                                                            | **Why This Matters**                                                 |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **Model Versioning**   | Does the platform support versioning, rollback, and audit trails for all ML models used in production?                  | Required for auditability, especially in regulated sectors.          |
+|                        | Is there an approval workflow before new models or changes go live?                                                     | Avoids untested models from reaching production without controls.    |
+| **Explainability**     | How does the system support explainability of machine learning models (e.g., SHAP, LIME, decision trees)?               | Needed for compliance, customer disputes, and internal transparency. |
+|                        | Can your platform provide “reason codes” for each score or decision to support user investigation or regulatory review? | Enables investigators and compliance teams to understand decisions.  |
+| **Drift & Monitoring** | How does the platform monitor model drift or degradation over time?                                                     | Ensures models stay relevant and high-performing.                    |
+|                        | Are alerts raised when a model's performance drops below a configured threshold (e.g., precision, recall)?              | Critical for early intervention and retraining decisions.            |
+
+---
+
+### 🏗️ Implementation & Operations
+
+| **Category**           | **Question**                                                                                      | **Why This Matters**                                                     |
+| ---------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Deployment Support** | Do you provide implementation support for integrating custom fraud models into the platform?      | Important for resourcing and planning your migration from legacy models. |
+|                        | What is the typical timeline and effort involved in enabling BYOM for real-time scoring?          | Helps with realistic planning and project phasing.                       |
+| **Tooling**            | Is there a UI or API for uploading, testing, and activating models?                               | Streamlines the operational workflow and removes reliance on vendor PS.  |
+|                        | Do you provide model training capabilities on-platform or only model inference?                   | Some vendors offer end-to-end model lifecycle management.                |
+| **Hybrid Decisioning** | Can your rules engine use both static rules and model outputs in a single risk decisioning flow?  | Hybrid scoring is often more effective than pure ML or pure rules.       |
+|                        | Can we assign weights or confidence levels to model outputs and combine them with business logic? | Adds flexibility in tuning outcomes.                                     |
+
+---
+
+### 🔒 Bonus (for Secure and Compliant Deployment)
+
+| **Category**           | **Question**                                                                                                            | **Why This Matters**                                                        |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| **Security & Privacy** | How is data privacy managed during model training and scoring? Is PII obfuscated or tokenized?                          | Especially important if you’re building your own models on production data. |
+|                        | Do you support training models on tokenized or pseudonymized data to align with privacy regulations (e.g., GLBA, CCPA)? | Ensures responsible AI practices and regulatory alignment.                  |
 
