@@ -64,6 +64,12 @@ The only external dependency is the lightweight **FPE library from Idealista**, 
 
 2. Java source file `FpeDemo.java`:
 
+<dependency>
+  <groupId>com.idealista</groupId>
+  <artifactId>format-preserving-encryption</artifactId>
+  <version>1.0.0</version>
+</dependency>
+
 ```java
 import com.idealista.fpe.*;
 import javax.crypto.spec.SecretKeySpec;
